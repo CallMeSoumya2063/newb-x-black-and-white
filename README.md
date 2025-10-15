@@ -1,14 +1,12 @@
-# Newb X Legacy
+# Newb X black & white
 
-**Newb X Legacy** is a RenderDragon successor to the legacy GLSL shader, [Newb Shader](https://github.com/devendrn/newb-shader-mcbe). It is an enhanced vanilla shader that focuses on being lightweight and having soft aesthetics. It supports Minecraft Bedrock 1.21+ (Windows/Android/iOS).
+**Newb X black & white** is a custom variant of the renderdragon shader, Newb X Legacy. It is an shader that attempts to making the game monochrome. It supports Minecraft Bedrock 1.21+ (~~Windows~~/Android/~~iOS~~).
 
 <br>
 
-![Screenshots](docs/screenshots.jpg "Newb X Legacy 15.47, MCBE 1.21.0")
-
 ## Downloads
 
-You can download the shader pack from [release page](https://github.com/devendrn/newb-x-mcbe/releases/latest).
+Downloads will be available later in the [release page](https://github.com/CallMeSoumya2063/newb-x-black-and-white/releases/latest).
 
 ## Installation
 
@@ -65,7 +63,7 @@ This method is for [mcpelauncher-manifest](https://mcpelauncher.readthedocs.io/e
 
 ### Get source code
 ```
-git clone https://github.com/devendrn/newb-x-mcbe/
+git clone https://github.com/CallMeSoumya2063/newb-x-black-and-white/
 cd newb-x-mcbe
 ```
 
@@ -136,6 +134,6 @@ Clangd can be used to get code completion and error checks for source files insi
 
 ## License
 
-**Source Code:** The "Newb Shader" source code is licensed under the MIT License. You are free to modify, distribute, and create derivative works based on the source code.
+**Source Code:** Being a fork, the "Newb Shader" source code is licensed under the MIT License. You are free to modify, distribute, and create derivative works based on the source code.
 
 **Compiled Resource Packs (`.mcpack` files):** The compiled resource packs distributed by the "Newb Shader" project and its variant creators are copyrighted works with restrictions. See the `COPYRIGHT.txt` file within each resource pack for more information.
