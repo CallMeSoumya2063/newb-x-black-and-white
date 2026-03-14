@@ -143,7 +143,7 @@
 
 /* Galaxy */
 //#define NL_GALAXY_STARS 2.0
-#define NL_GALAXY_VIBRANCE 0.7
+#define NL_GALAXY_VIBRANCE 0.0
 #define NL_GALAXY_SPEED 0.03
 #define NL_GALAXY_DAY_VISIBILITY 0.0
 
