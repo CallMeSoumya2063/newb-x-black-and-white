@@ -25,8 +25,8 @@
 #define NL_NIGHT_SUN_COL   vec3(0.623288,0.623288,0.623288)
 
 /* Ambient light on terrain */
-#define NL_NETHER_AMBIENT vec3(2.327436,2.327436,2.327436)
-#define NL_END_AMBIENT    vec3(1.521186,1.521186,1.521186)
+#define NL_NETHER_AMBIENT vec3(3.0,2.16,1.89)
+#define NL_END_AMBIENT    vec3(1.98,1.25,2.3)
 
 /* Torch colors */
 #define NL_OVERWORLD_TORCH_COL  vec3(0.609872,0.609872,0.609872)
