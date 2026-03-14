@@ -54,9 +54,9 @@
 #define NL_DAWN_EDGE_COL     vec3(0.58056,0.58056,0.58056)
 
 /* Rainbow */
-define NL_RAINBOW
-define NL_RAINBOW_CLEAR 0.5
-define NL_RAINBOW_RAIN 1.0
+#define NL_RAINBOW
+#define NL_RAINBOW_CLEAR 0.5
+#define NL_RAINBOW_RAIN 1.0
 
 /* Ore glow intensity */
 #define NL_GLOW_TEX 2.3
