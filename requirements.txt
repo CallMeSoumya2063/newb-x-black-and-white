@@ -1,2 +1,2 @@
-lazurite==0.6.0
-rich==13.7.1
+lazurite==0.8.4
+rich==14.3.3
