@@ -1,6 +1,6 @@
 {
   "base_profile": {
-    "platforms": ["ESSL_300"],
+    "platforms": ["ESSL_310"],
     "merge_source": ["../../tool/data/materials"],
     "include_patterns": ["Sky", "RenderChunk", "Actor", "ActorGlint", "LegacyCubemap", "EndSky", "Clouds", "SunMoon", "Weather", "ItemInHandTextured", "ItemInHandColor", "ItemInHandColorGlint", "Stars"],
     "exclude_patterns": [".*", "_*"],
@@ -9,7 +9,7 @@
   "profiles": {
     "android": {
       "macros": [],
-      "platforms": ["ESSL_300"]
+      "platforms": ["ESSL_310"]
     },
     "ios": {
       "macros": [],
@@ -17,11 +17,11 @@
     },
     "windows": {
       "macros": [],
-      "platforms": ["Direct3D_SM50"]
+      "platforms": ["Direct3D_SM65"]
     },
     "merged": {
       "macros": [],
-      "platforms": ["ESSL_300", "Direct3D_SM50", "Metal"]
+      "platforms": ["ESSL_310", "Direct3D_SM65", "Metal"]
     }
   }
 }
