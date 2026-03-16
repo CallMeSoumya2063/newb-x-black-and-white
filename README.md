@@ -1,6 +1,6 @@
 # Newb X black & white
 
-**Newb X black & white** is a custom variant of the renderdragon shader, Newb X Legacy. It is an shader that attempts to making the game monochrome. ~~It supports Minecraft Bedrock 1.21+ (Windows/Android/iOS).~~ Doesn't work, I give up. Anyone is free to continue the pack or steal the idea. Thanks in advance.
+**Newb X black & white** is a custom variant of the renderdragon shader, Newb X Legacy. It is an shader that attempts to making the game monochrome. ~~It supports Minecraft Bedrock 1.21+ (Windows/Android/iOS).~~ ~~Doesn't work, I give up. Anyone is free to continue the pack or steal the idea. Thanks in advance.~~ supports android 26.0+ for whatever reason idk why
 
 <br>
 
